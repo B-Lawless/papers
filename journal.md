@@ -2,7 +2,8 @@
 Becan
 
 # Title
-An investigation into a link between prefered coding language and mental health
+An investigation into a link between prefered coding language and mental health, with and
+without influence from Stackoverflow
 
 # Intro
 The findings of this study were that in the absence of stackoverflow depression increased up by 57%.
