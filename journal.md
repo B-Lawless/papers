@@ -16,3 +16,6 @@ A group of 60 code-monkeys were asked to complete a 2 day coding project with, o
 access to Stackoverflow. Through the use of observation and questionaires their mental deteriation 
 was monitored for this duration. These coders were further split into third groups of 20 Matlab,
 20 C++, and 20 Java to see if this conributed to the nature of the issues.
+
+# Future work
+Look into whether coffee access leads to more or fewer nervous breakdowns in coders
