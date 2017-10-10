@@ -23,3 +23,6 @@ had fewer breakdowns but of a much larger panic level per incident.
 
 # Future work
 Look into whether coffee access leads to more or fewer nervous breakdowns in coders
+
+# Figures
+Add figures to illustrate teary eyed coders
