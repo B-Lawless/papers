@@ -26,3 +26,6 @@ Look into whether coffee access leads to more or fewer nervous breakdowns in cod
 
 # Figures
 Add figures to illustrate teary eyed coders
+
+# Acknowledgements
+We would like to thank the good people at stackoverflow
