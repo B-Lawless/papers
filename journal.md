@@ -6,10 +6,13 @@ John Smith
 An investigation into a link between prefered coding language and mental health, with and
 without influence from Stackoverflow
 
-# Intro
+# Abstract
 The findings of this study were that in the absence of stackoverflow depression increased up by 57%.
 These findings were similar to those made by (Smith et al, 2014), but with a more robust method, and 
 a larger smaple size.
+
+# Intro 
+This paper aims to find out why coders are so sad most of the time.
 
 # Experimentation
 A group of 60 code-monkeys were asked to complete a 2 day coding project with, or without
