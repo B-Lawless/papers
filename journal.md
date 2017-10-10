@@ -1,6 +1,6 @@
 # Author
-John Smith
-Becan Lawless
+John Smith MMU
+Becan Lawless UoM
 
 # Title
 An investigation into a link between prefered coding language and mental health, with and
